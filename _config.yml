@@ -38,7 +38,7 @@ social:
     - https://twitter.com/vszhub
     - https://github.com/saeujin
 google_site_verification: xxxxx
-lang: en
+lang: kor
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
+  name: 정서진
   url: https://saeujin.github.io
-  email: vszhub@gmail.com
+  email: seojin5279@ajou.ac.kr
