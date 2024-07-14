@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: Instagram
   url: https://www.instagram.com/zzin_seowls/
-  icon: "https://e7.pngegg.com/pngimages/388/82/png-clipart-daniel036-instagram-behance-el-camaron-loco-inc-aurora-co-angle-white-thumbnail.png"
+  icon: "fab fa-fw fa-instagram"
 - title: GitHub
   url: https://github.com/saeujin
   icon: fab fa-github
